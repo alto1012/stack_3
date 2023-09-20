@@ -27,7 +27,7 @@ public class Stack implements StackInterface {
     }
 
     public int size() {
-        return size;
+        return size +1;
     }
 
 }
